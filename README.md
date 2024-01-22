@@ -62,7 +62,7 @@ V pomocných tabulkách jsem pracoval s tabulkami:
   ## Odpovědi na výzkumné otázky
 
   ### 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
-  Z 19 zkoumaných ovětví v letech 2006-2013 vzrostly mzdy každoročně jen u:  
+  Z 19 zkoumaných ovětví v letech 2006-2018 vzrostly mzdy každoročně jen u:  
   Doprava a skladování  
   Ostatní činnosti  
   Zdravotní a sociální péče  
