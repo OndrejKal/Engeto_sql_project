@@ -62,7 +62,7 @@ V pomocných tabulkách jsem pracoval s tabulkami:
   ## Odpovědi na výzkumné otázky
 
   ### 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
-  Z 19 zkoumaných ovětví v letech 2006-2018 vzrostly mzdy každoročně jen u:  
+  Z 19 zkoumaných odvětví v letech 2006-2018 vzrostly mzdy každoročně jen u:  
   Doprava a skladování  
   Ostatní činnosti  
   Zdravotní a sociální péče  
@@ -77,8 +77,8 @@ V pomocných tabulkách jsem pracoval s tabulkami:
   V tomto odvětví roku 2006 vychází chléb na 871 kusů a roku 2018 je to pouze 857 kusů.
 
   ### 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
-  Nejnižší procentuální rozdíl je u položky rajská jablka červená kulatá v letech 2006 a 2007. Pokud budeme brát pouze nárůst cen, tak to budou položky šunkový salám(2015/2016), kapr živý(2007/2008, 2014/2015), 
-  kuřata kuchaná celá(2017/2018), rostlinný roztíratelný tuk(2006/2007, 2011/2012), hovězí maso zadní bez kosti(2015/2016).
+  Nejnižší procentuální rozdíl je u položky rajská jablka červená kulatá v letech 2006 a 2007. Pokud budeme brát pouze nárůst cen, tak to budou položky šunkový salám (2015/2016), kapr živý (2007/2008, 2014/2015), 
+  kuřata kuchaná celá (2017/2018), rostlinný roztíratelný tuk (2006/2007, 2011/2012), hovězí maso zadní bez kosti (2015/2016).
   
   ### 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
   V zkoumaném období byl největší meziroční nárůst cen potravin oproti mzdám v roce 2013, ale nebyl větší než 10%.
